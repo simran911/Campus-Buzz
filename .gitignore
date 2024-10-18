@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+alumni-server-virtual/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Flask instance folder
+instance/
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# Logs
+*.log
+logs/
+
+# Config files
+config.json
+config.yaml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (if you're using Jupyter)
+.ipynb_checkpoints/
